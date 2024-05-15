@@ -1,6 +1,6 @@
 # CEC2021_Comp_Template
 
-This repository was created for the 2022 Canadian Engineering Competition Programming Challenge by myself, Eleanor McSporran.
+This repository was created for the 2021 Canadian Engineering Competition Programming Challenge by myself, Eleanor McSporran.
 
 The focus of this challange was to try and analyse the power generation of the province of New Brunswick and produce an script that determines the best allocation of resources.
 
